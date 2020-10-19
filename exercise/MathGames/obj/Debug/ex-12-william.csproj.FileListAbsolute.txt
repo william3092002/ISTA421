@@ -1,0 +1,7 @@
+D:\quantico06\ISTA421\exercise\ex-12-william\bin\Debug\ex-12-william.exe.config
+D:\quantico06\ISTA421\exercise\ex-12-william\bin\Debug\ex-12-william.exe
+D:\quantico06\ISTA421\exercise\ex-12-william\bin\Debug\ex-12-william.pdb
+D:\quantico06\ISTA421\exercise\ex-12-william\obj\Debug\ex-12-william.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\exercise\ex-12-william\obj\Debug\ex-12-william.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\exercise\ex-12-william\obj\Debug\ex-12-william.exe
+D:\quantico06\ISTA421\exercise\ex-12-william\obj\Debug\ex-12-william.pdb

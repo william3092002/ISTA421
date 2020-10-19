@@ -1,1 +1,0 @@
-I certified that I have finished the lab.

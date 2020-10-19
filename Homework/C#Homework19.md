@@ -4,6 +4,7 @@
 
 1. What is an enumerable collection?
 	- it is a collection that implements the System.Collections.IEnumerable interface.
+	- a collection you can iterate through with foreach loop. 
 2. What properties and methods does the IEnumerable interface contain?
 	- IEnumerator GetEnumerator();
 	
