@@ -1,0 +1,13 @@
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\bin\Debug\netcoreapp3.1\ex-14-william.exe
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\bin\Debug\netcoreapp3.1\ex-14-william.deps.json
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\bin\Debug\netcoreapp3.1\ex-14-william.runtimeconfig.json
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\bin\Debug\netcoreapp3.1\ex-14-william.runtimeconfig.dev.json
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\bin\Debug\netcoreapp3.1\ex-14-william.dll
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\bin\Debug\netcoreapp3.1\ex-14-william.pdb
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.csprojAssemblyReference.cache
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.AssemblyInfoInputs.cache
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.AssemblyInfo.cs
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.dll
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.pdb
+D:\quantico06\ISTA421\exercise\ex-14-william\ex-14-william\obj\Debug\netcoreapp3.1\ex-14-william.genruntimeconfig.cache
